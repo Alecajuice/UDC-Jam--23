@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 65a3fd8807c9e564ab935f8616ff06d4
+  - enabled: 1
+    path: Assets/Scenes/ShutIn.unity
+    guid: 7d2422bbad7de4c4d98483717542a40b
+  - enabled: 1
+    path: Assets/Scenes/DoubleJump.unity
+    guid: d5a95fa49668fd04e8746c9bc684b8d8
+  - enabled: 1
+    path: Assets/Scenes/InfiniteLoad.unity
+    guid: bb7484220ec72924a80d3223e4bffd31
+  - enabled: 1
+    path: Assets/Scenes/ReturnByDeath.unity
+    guid: bbafe9fe187420041b13b42266308506
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 351367e24e414ef4c97f32bd2aec9a47
+  - enabled: 1
+    path: Assets/Scenes/Momentum1.unity
+    guid: 7a5d4b1b4a74e6f40a287fcad94f4f63
+  m_configObjects: {}

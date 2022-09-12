@@ -1,0 +1,20 @@
+x death when crushed by door
+x delay/effects when loading
+x effects when saving
+
+Sounds:
+- save/load sounds
+- button/door open/close sounds
+- spring sounds
+- exit sounds
+- death sounds
+- bgm
+- falling sounds?
+
+Sprites:
+- player sprite
+- save/exit sprites
+
+
+
+Unable to parse Build/WebGL Build.framework.js.br! This can happen if build compression was enabled but web server hosting the content was misconfigured to not serve the file with HTTP Response Header "Content-Encoding: br" present. Check browser Console and Devtools Network tab to debug.
